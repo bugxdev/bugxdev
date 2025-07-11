@@ -1,4 +1,3 @@
-## Hi there 👋
 <h1 align="center">Hi, I'm Sanskar👋</h1>
 <p align="center">Automation Wizard | AI Engineer | Founder of BugxDev 🚀</p>
 

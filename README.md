@@ -1,5 +1,5 @@
 ## Hi there 👋
-<h1 align="center">Hi, I'm Sanskar Kolekar 👋</h1>
+<h1 align="center">Hi, I'm Sanskar👋</h1>
 <p align="center">Automation Wizard | AI Engineer | Founder of BugxDev 🚀</p>
 
 ---
@@ -25,15 +25,15 @@
 
 ### 📦 Projects
 
-- 🔗 [AI Calling Agent](https://bugxdev-portfolio.web.app/projects/aicallingagent)
-- 🧠 [Instagram Reel Scheduler](https://bugxdev-portfolio.web.app/projects/instagramreelsscheduler)
-- 🪙 [Telegram Crypto Escrow Bot](https://bugxdev-portfolio.web.app/projects/telegramescrowbot)
+- 🔗 [AI Calling Agent](https://bugxdev-portfolio.web.app/projects/ai-calling-agent)
+- 🧠 [Instagram Reel Scheduler](https://bugxdev-portfolio.web.app/projects/instagram-reels-scheduler)
+- 🪙 [Telegram Crypto Escrow Bot](https://bugxdev-portfolio.web.app/projects/telegram-escrow-bot)
 
 ---
 
 ### 📬 Contact Me
 
-- 📩 Email: work.sanskar.ai@gmail.com  
+- 📩 Email: aiwithsanskar@gmail.com  
 - 💬 Telegram: [@bugxdev](https://t.me/bugxdev)
 - 📸 Instagram: [@bugxdev](https://instagram.com/bugxdev)
 
